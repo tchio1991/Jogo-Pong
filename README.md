@@ -25,7 +25,7 @@
 
 * [Imput, comandos de entradas os controles do jogo](https://github.com/tchio1991/Jogo-Pong/blob/main/src/imput/KeyManager.java)
 
-#### Pacote states, aqui fica localidas as classes defidas para controlar a velocidade do jogo.
+#### Pacote states, aqui fica localizadas as classes defidas para controlar a velocidade do jogo.
 
 * [FPSState](https://github.com/tchio1991/Jogo-Pong/blob/main/src/states/FPSState.java)
 * [Level1State](https://github.com/tchio1991/Jogo-Pong/blob/main/src/states/Level1State.java)
